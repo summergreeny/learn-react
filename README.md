@@ -3,6 +3,7 @@
 Full Name: Yilin Liu
 
 ## Getting Started
+
 First, fork this repository and clone it to your local machine.
 
 Then, run the development server:
@@ -10,7 +11,7 @@ Then, run the development server:
 ```bash
 npm install
 
-npm run dev
+npm run devf
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the an image displayed.
